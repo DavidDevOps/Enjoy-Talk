@@ -1,0 +1,12 @@
+C:\Users\heewo\AndroidStudioProjects\myApp\Chat_Server\bin\Debug\Chat_Server.exe.config
+C:\Users\heewo\AndroidStudioProjects\myApp\Chat_Server\bin\Debug\Chat_Server.exe
+C:\Users\heewo\AndroidStudioProjects\myApp\Chat_Server\bin\Debug\Chat_Server.pdb
+C:\Users\heewo\AndroidStudioProjects\myApp\Chat_Server\obj\Debug\Chat_Server.csprojResolveAssemblyReference.cache
+C:\Users\heewo\AndroidStudioProjects\myApp\Chat_Server\obj\Debug\Chat_Server.exe
+C:\Users\heewo\AndroidStudioProjects\myApp\Chat_Server\obj\Debug\Chat_Server.pdb
+C:\Users\김희원\Desktop\H\취업맟춤반\김희원_작품 포트폴리오\엔조이톡 (단체익명채팅 앱)\Enjoy-Talk(C# 서버 소스 포함)\Chat_Server\bin\Debug\Chat_Server.exe.config
+C:\Users\김희원\Desktop\H\취업맟춤반\김희원_작품 포트폴리오\엔조이톡 (단체익명채팅 앱)\Enjoy-Talk(C# 서버 소스 포함)\Chat_Server\obj\Debug\Chat_Server.exe
+C:\Users\김희원\Desktop\H\취업맟춤반\김희원_작품 포트폴리오\엔조이톡 (단체익명채팅 앱)\Enjoy-Talk(C# 서버 소스 포함)\Chat_Server\obj\Debug\Chat_Server.pdb
+C:\Users\김희원\Desktop\H\취업맟춤반\김희원_작품 포트폴리오\엔조이톡 (단체익명채팅 앱)\Enjoy-Talk(C# 서버 소스 포함)\Chat_Server\bin\Debug\Chat_Server.exe
+C:\Users\김희원\Desktop\H\취업맟춤반\김희원_작품 포트폴리오\엔조이톡 (단체익명채팅 앱)\Enjoy-Talk(C# 서버 소스 포함)\Chat_Server\bin\Debug\Chat_Server.pdb
+C:\Users\김희원\Desktop\H\취업맟춤반\김희원_작품 포트폴리오\엔조이톡 (단체익명채팅 앱)\Enjoy-Talk(C# 서버 소스 포함)\Chat_Server\obj\Debug\Chat_Server.csprojResolveAssemblyReference.cache
